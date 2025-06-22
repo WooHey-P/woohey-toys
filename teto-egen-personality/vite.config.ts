@@ -9,7 +9,7 @@ export default defineConfig({
       "@shared": "/shared",
     },
   },
-  base: "/teto-egen/",
+  base: "./",
   build: {
     outDir: "dist",
     emptyOutDir: true,
